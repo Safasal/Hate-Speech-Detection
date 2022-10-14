@@ -1,5 +1,5 @@
 # Hate-Speech-Detection
-Detecting hate speech from social media content using machine learning
+Detecting hate speech from social media content using machine learning - Practicum project(MAIN)
 
 <img width="110" alt="image" src="https://user-images.githubusercontent.com/89675323/195759408-61852cc4-e0b5-46f8-b1c8-f0046b045f76.png">
 
