@@ -33,3 +33,4 @@ Conclusion:
 I explored different classifiers trained on a combined dataset from different social media sources, The deep learning classifiers outperformed the other models in detecting hate speech, while the SVC model came next in score. 
 For better performance and future work, I would recommend using feature engineering, combining two models, and work on each hateful subject separately.
 
+** it’s important to note that this dataset contains text that can be considered racist, sexist, or generally offensive.  
